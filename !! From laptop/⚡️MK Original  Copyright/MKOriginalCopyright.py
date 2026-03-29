@@ -13,10 +13,10 @@ api_id = int(os.getenv("TG_API_ID"))
 api_hash = os.getenv("TG_API_HASH")
 string_session = os.getenv("TG_STRING_SESSION")
 
-source_group = '-1003790900941'
+source_group = '-1003136868609'
 destination_groups = ['@sajkgfoyetufbxzjbadsijfgiyegIAC']
 
-channel = "⚡️MK Original  Copyright"
+channel = "⚡️Excel Sheet 15"
 
 min_delay = 8
 max_delay = 15
