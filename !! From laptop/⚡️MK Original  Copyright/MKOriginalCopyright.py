@@ -13,8 +13,8 @@ api_id = int(os.getenv("TG_API_ID"))
 api_hash = os.getenv("TG_API_HASH")
 string_session = os.getenv("TG_STRING_SESSION")
 
-source_group = '-1002721343971'
-destination_groups = ['@JK_HDSGIJ_HPUHSA_mfdgsdgjkhiuahs']
+source_group = '-1003790900941'
+destination_groups = ['@sajkgfoyetufbxzjbadsijfgiyegIAC']
 
 channel = "⚡️MK Original  Copyright"
 
